@@ -1,0 +1,10 @@
+Hastane yönetim modülü, 3 tane modülden oluşan bir yönetim sistemi.
+
+Hasta
+Sekreter
+Doktor
+
+
+					Giriş Ekranı
+
+		Hasta Girişi 		Sekreter Girişi		Doktor Girişi

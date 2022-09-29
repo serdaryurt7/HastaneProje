@@ -1,0 +1,56 @@
+Öğrenci Sınav Not Bilgileri -----> DB (Veritabanı)
+
+Öğrenci Bilgileri----> Tables(Tablolar)
+Ders Bilgileri
+Sınavdan Aldığı Not Bilgileri
+............
+
+----> Column (Sütun)
+----> Row (Satır)
+
+...........................
+
+OgrID
+OgrAd
+OgrSoyad
+OgrKulup
+OgrCinsiyet
+OgrSehir
+..........................
+
+Veri Türleri
+
+bit
+char
+decimal
+int
+
+DDL Komutları (Tablo Üzerindeki Değişiklikler)
+
+-Create
+-Alter
+-Drop
+
+---------------------------------------------------------------- 
+
+DML Komutları (Veri Üzerindeki Değişiklikler)
+
+- Select --->  Seçme, Listeleme
+- Instert -->  Ekleme
+- Update --->  Güncelleme
+- Delete --->  Silme
+
+....................................................
+
+Select * From Table
+* --> All
+From --> Den Dan
+............................................
+Where
+.................................................
+Insert 
+Insert Into Table (Column1,Column2,Column3,....) Values (V1,V2,V3,....)
+.......................................................................
+Delete 
+
+Delete From Table
